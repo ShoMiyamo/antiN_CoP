@@ -1,7 +1,7 @@
 # R codes for Infection risk estimation and Modeling the antibody response
 
 ## Summary
-This repository contains computational codes used in [Miyamoto et al., medRxiv, 2024]([https://t.co/I24zCMfYdN](https://doi.org/10.1101/2024.06.05.24308479)).
+This repository contains computational codes used in [Miyamoto et al., medRxiv, 2024]((https://doi.org/10.1101/2024.06.05.24308479)).
 
 ## Contents
 - script
