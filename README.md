@@ -1,5 +1,6 @@
 # R codes for Infection risk estimation and Modeling the antibody response
 
+[![DOI](https://zenodo.org/badge/898850069.svg)](https://doi.org/10.5281/zenodo.14906348)
 ## Summary
 This repository contains computational codes used in [Miyamoto et al., medRxiv, 2024](https://www.medrxiv.org/content/10.1101/2024.06.05.24308479v1).
 
