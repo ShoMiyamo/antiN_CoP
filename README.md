@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/898850069.svg)](https://doi.org/10.5281/zenodo.14906348)
 ## Summary
-This repository contains computational codes used in [Miyamoto et al., medRxiv, 2024](https://www.medrxiv.org/content/10.1101/2024.06.05.24308479v1).
+This repository contains computational codes used in [Miyamoto et al., Commun Med, 2025](https://doi.org/10.1038/s43856-025-00894-8).
 
 ## Contents
 - script
