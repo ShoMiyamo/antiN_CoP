@@ -6,6 +6,6 @@ authors:
   orcid: https://orcid.org/0000-0001-6541-1722
 title: "R codes for Infection risk estimation and Modeling the antibody response"
 doi: 10.5281/zenodo.14906348
-version: v1.0.2
-date-released: 2025-02-21
+version: v1.0.3
+date-released: 2025-05-15
 url: "https://github.com/ShoMiyamo/antiN_CoP"
